@@ -1,1 +1,7 @@
-
+python-telegram-bot
+openai
+pandas
+numpy
+duckdb
+requests
+flask
