@@ -1,0 +1,8 @@
+{"timestamp": "2026-07-30 22:51:54.732999", "question": "Calculate the average of these numbers: 10,20,40,30", "answer": "{\"average\":42.5}"}
+{"timestamp": "2026-07-30 22:55:49.764491", "question": "Calculate the average of:50,50", "answer": "{\"average\": 50.0}"}
+{"timestamp": "2026-07-30 22:58:06.179305", "question": "Calculate the average of these numbers:10,20,30,40", "answer": "{\n  \"average\": 25.0\n}"}
+{"timestamp": "2026-07-30 22:59:59.017399", "question": "Calculate the average of these numbers:10,20,30,40", "answer": "{'average': 25.0}"}
+{"timestamp": "2026-07-30 23:02:07.030612", "question": "Calculate the average of these numbers:10,20,30,40", "answer": "{\"average\": 25.0}"}
+{"timestamp": "2026-07-30 23:04:56.910725", "question": "What is the average of 5,10,15,20,25", "answer": "{\"average\": 15.0}"}
+{"timestamp": "2026-07-30 23:07:46.399585", "question": "What is the average of 5,10,15,20,25?", "answer": "{\"average\": 15.0}"}
+{"timestamp": "2026-07-30 23:12:41.854295", "question": "What is the average of 5,10,15,20,25?", "answer": "{\"average\": 15.0}"}
